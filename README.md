@@ -1,6 +1,8 @@
 # Introduction to Machine Learning
 a series of IPython Notebook and accompanying slideshow and video
 
+## This is a work in progress. I plan to be finished sometime in February 2015. ##
+
 [Link to accompanying reveal.js slideshow](http://slides.com/davidtaylor-1/intro-to-data-analysis-using-machine-learning/#/)
 
 Link to video (pending)
