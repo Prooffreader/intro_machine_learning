@@ -1,7 +1,7 @@
 # Introduction to Machine Learning
 a series of IPython Notebook and accompanying slideshow and video
 
-[Link to accompanying reveal.js slideshow](http://slides.com/davidtaylor-1/intro-to-data-analysis-using-machine-learning/#/)
+[Link to accompanying reveal.js slideshow](http://slides.com/prooffreader/intro-to-data-analysis-using-machine-learning#/)
 
 [Link to PDF version of slideshow](http://dtdata.io/introml/introml.pdf)
 
