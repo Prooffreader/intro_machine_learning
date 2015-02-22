@@ -3,7 +3,7 @@ a series of IPython Notebook and accompanying slideshow and video
 
 [Link to accompanying reveal.js slideshow](http://slides.com/prooffreader/intro-to-data-analysis-using-machine-learning#/)
 
-[Link to PDF version of slideshow](http://dtdata.io/introml/introml.pdf)
+[Link to PDF version of slideshow](http://dtdata.io/introml/introml-complete.pdf)
 
 Link to video (pending)
 
