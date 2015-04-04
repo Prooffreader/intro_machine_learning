@@ -5,7 +5,7 @@ a series of IPython Notebook and accompanying slideshow and video
 
 [Link to PDF version of slideshow](http://dtdata.io/introml/introml-complete.pdf)
 
-Link to video (pending)
+[Link to video presentation](https://www.youtube.com/watch?v=U4IYsLgNgoY)
 
 IPython notebooks:
 
