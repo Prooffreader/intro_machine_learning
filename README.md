@@ -5,7 +5,7 @@ a series of IPython Notebook and accompanying slideshow and video
 
 [Link to PDF version of slideshow](http://dtdata.io/introml/introml-complete.pdf)
 
-[Link to video presentation](https://www.youtube.com/watch?v=U4IYsLgNgoY)
+~~[Link to video presentation](https://www.youtube.com/watch?v=U4IYsLgNgoY)~~ I'm so sorry, my google account was hacked and although I was able to get my gmail and OAuth back, all my youtube videos including this one with > 100,000 views, were permanently erased.
 
 IPython notebooks:
 
