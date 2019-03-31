@@ -1,5 +1,5 @@
 # Introduction to Machine Learning
-a series of IPython Notebook and accompanying slideshow and video
+From 2015, a series of Jupyter Notebooks and accompanying slideshow and video
 
 [Link to accompanying reveal.js slideshow](http://slides.com/prooffreader/intro-to-data-analysis-using-machine-learning#/)
 
@@ -7,7 +7,7 @@ a series of IPython Notebook and accompanying slideshow and video
 
 ~~[Link to video presentation](https://www.youtube.com/watch?v=U4IYsLgNgoY)~~ I'm so sorry, my google account was hacked and although I was able to get my gmail and OAuth back, all my youtube videos including this one with > 100,000 views, were permanently erased.
 
-IPython notebooks:
+Jupyter notebooks:
 
 1. [The Dataset](http://nbviewer.ipython.org/github/Prooffreader/intro_machine_learning/blob/master/01_The_Dataset.ipynb)
 2. [Clustering with K-means](http://nbviewer.ipython.org/github/Prooffreader/intro_machine_learning/blob/master/02_Clustering_KMeans.ipynb)
